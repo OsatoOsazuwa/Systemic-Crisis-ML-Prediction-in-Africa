@@ -3,16 +3,20 @@
 ## Table of Contents
 
 1. [Project Summary](#Project-Summary)
-2. [Machine Learning Algorithms Used](#Machine-Learning-Algorithms-Used)
-3. [Methodology](#Methodology)
-4. [Project Files](#Project-Files)
-5. [How to Run](#How-to-Run)
-6. [Results](#Results)
-7. [Future Work](#Future-Work)
+2. [Dataset](Dataset)
+3. [Machine Learning Algorithms Used](#Machine-Learning-Algorithms-Used)
+4. [Methodology](#Methodology)
+5. [Project Files](#Project-Files)
+6. [How to Run](#How-to-Run)
+7. [Results](#Results)
+8. [Future Work](#Future-Work)
 
 ## Project Summary
 
 This project predicts systemic crises in 13 African countries (1860-2014) using a dataset of financial indicators like annual inflation rates. The aim is to develop a classification model to assess the likelihood of systemic crisis emergence.
+
+## Dataset
+Dataset can be found [here]
 
 ## Machine Learning Algorithms Used
 
@@ -40,7 +44,7 @@ The following algorithms were implemented and compared:
 
 ## Project Files
 
-[Systemic_Crisis_ML_Prediction.ipynb]: Contains the full implementation, including data preprocessing, model training, evaluation, and results.
+[Systemic_Crisis_ML_Prediction.ipynb](Systemic_Crisis_ML_Prediction.ipynb): Contains the full implementation, including data preprocessing, model training, evaluation, and results.
 
 ## How to Run
 
